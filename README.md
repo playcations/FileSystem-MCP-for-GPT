@@ -173,17 +173,3 @@ ChatGPT will now handshake with your MCP server and discover all 7 tools.
 
      * `path`: path to file/directory
    * **Returns**: confirmation with type of deleted item.
-
----
-
-✅ That gives you **7 tools in total**:
-
-* `shell`
-* `apply_patch`
-* `search`
-* `fetch`
-* `write_file`
-* `create_directory`
-* `delete_file`
-
-Would you like me to also extend this with the optional **`web_search`** tool Codex sometimes offered (behind a flag), or keep it strictly to these?
